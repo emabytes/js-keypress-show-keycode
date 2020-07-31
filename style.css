@@ -1,0 +1,32 @@
+*{
+        margin: 0;
+}
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+section {
+    padding-top: 15vh;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 5vh;
+}
+h3 {
+    font-size: 3em;
+    padding-bottom: 3vh;
+}
+h6{
+    font-size: 5em;
+    padding-bottom: 5vh;
+    color: rgb(99, 135, 198)
+}
+h5 {
+    font-size: 1em;
+}
+p {
+    font-size: 1.5em;
+    color: rgb(99, 135, 198)
+}
